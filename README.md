@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tailai (he/him)
+- 👋 Hi, I’m Tailai
 - 👀 I’m an undergraduate student studying computer science at Cornell University
 - 🌱 I’m currently working on my Ear Training App (code available on the ear-training-app repository!)
 - 📫 How to reach me:
