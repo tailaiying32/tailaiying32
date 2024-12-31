@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tailai!
 - 👀 I’m an undergraduate student studying computer science at Cornell University.
 - 📫 How to reach me:
-  - my email: taiying9627@gmail.com (personal), tty6@cornell.edu (school)
+  - my email: tty6@cornell.edu
   - my phone number: 385-256-3856
   - my LinkedIn: www.linkedin.com/in/tailai-ying-099041260
 
