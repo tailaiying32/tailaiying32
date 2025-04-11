@@ -3,7 +3,7 @@
 - 📫 How to reach me:
   - my email: tty6@cornell.edu
   - my LinkedIn: https://www.linkedin.com/in/tailai-ying-099041260
-  - my personal website: https://www.tailaiying32.github.io
+  - my personal website: https://tailaiying32.github.io
 
 <!---
 tailaiying32/tailaiying32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
