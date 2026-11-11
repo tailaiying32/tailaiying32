@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tailai!
 - 👀 I’m an undergraduate student studying computer science at Cornell University.
 - 📫 How to reach me:
-  - my email: tty6@cornell.edu
   - my LinkedIn: https://www.linkedin.com/in/tailai-ying-099041260
   - my personal website: https://tailaiying32.github.io
 
